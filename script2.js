@@ -1,3 +1,7 @@
+/*Exercício 02
+*   Verificar a idade do usuário e qual é a faixa etária.
+*/
+
 let idade = 30;
 
 if(idade >=0 && idade <= 12){
